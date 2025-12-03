@@ -1,0 +1,22 @@
+.card {
+    display: flex;
+    height: 180px;
+    gap: 18px;
+    padding: 44px 0;
+    border-bottom: 1px solid rgb(224, 224, 224);
+}
+
+.wrapper {
+    height: 100%;
+    width: 246px;
+}
+
+.image {
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.content {
+    width: 415px;
+}

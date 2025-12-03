@@ -1,0 +1,10 @@
+.footer {
+    padding: 51px 0 54px;
+    text-align: center;
+}
+
+.social {
+    display: flex;
+    gap: 35px;
+    justify-content: center;
+}
